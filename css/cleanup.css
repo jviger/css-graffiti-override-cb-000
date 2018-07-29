@@ -4,6 +4,6 @@
   display: none;
 }
 
-#wall .parent #tag-4, #wall div.parent div#tag-5.slick, div#wall div.parent div:last-child div#tag-6, html body div#wall div.parent div > #tag-7.slick {
+#wall .parent #tag-4, #wall div.parent div#tag-5.slick, body div#wall div.parent div:last-child div#tag-6, html body div#wall div.parent div > #tag-7.slick {
   display: none;
 }

@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall .tag-1, #wall div#tag-2, #wall div.slick {
+#wall .tag-1, #wall div#tag-2, #wall div.wicked {
   
   display: none;
 }
